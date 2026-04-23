@@ -62,6 +62,30 @@
 - 用户结论是否由 target-audience / customer-voice 支撑
 - 分发与冷启动判断是否由 distribution-activation 支撑
 - 最终建议是否覆盖了主要风险和关键 unknowns
+- 推荐范围是否由 `problem-definition.md`、`decision-drivers.md`、`scope-options.md`、`recommended-scope.md` 共同支撑
+
+### 8. 推荐范围是否只是 intake 改写
+
+重点检查：
+
+- `recommended-scope.md` 是否只是把用户前期选择过的方向重新整理了一遍
+- 是否真的比较过至少 3 个备选范围
+- 是否明确写出至少 2 个 alternatives 被放弃或暂缓的原因
+- 是否说明了 recommendation 依赖的关键假设
+- 是否存在“因为用户最初偏好某方向，所以最终也推荐同方向”的偷跑逻辑
+
+如果推荐范围缺少比较过程，只能标记为 `Warning` 或 `Critical Issue`，不能视为已完成裁决。
+
+### 9. 关键 checkpoint 是否被跳过
+
+重点检查：
+
+- 是否存在 `research-briefing.md`，或至少有等价的研究阶段汇总
+- synthesis 是否显式吸收了研究阶段的矛盾、缺口和用户补充
+- recommendation 形成前，是否做过一次决策对齐
+- 如果用户在对齐阶段提出异议，相关文件是否被回写更新
+
+如果这些 checkpoint 缺失，应在 `Warnings` 或 `Critical Issues` 中明确指出。
 
 ## 三、输出
 
@@ -76,6 +100,8 @@
 - Warnings
 - Info
 - Verification Checklist
+- Scope Recommendation Audit
+- Checkpoint Integrity Audit
 
 ## 四、流程控制
 

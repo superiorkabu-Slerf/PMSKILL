@@ -9,6 +9,8 @@ Wave 3 的目标是回答：
 - 这个需求是否有足够强度和支付意愿
 - 第一批值得抓的目标用户是谁
 
+本 wave 只负责产出 raw research，不直接写综合结论、推荐范围或最终建议。
+
 ---
 
 ## Research Block C1: Customer Voice & Pain Points

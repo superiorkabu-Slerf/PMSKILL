@@ -9,6 +9,8 @@ Wave 1 的目标不是证明市场一定成立，而是回答：
 - 当前时点是否合适
 - 是否存在监管、平台、资源等硬约束
 
+本 wave 只负责产出 raw research，不直接写综合结论、推荐范围或最终建议。
+
 ---
 
 ## Research Block A1: Market Sizing & Problem Economics

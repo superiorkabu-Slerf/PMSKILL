@@ -9,6 +9,8 @@ Wave 2 的目标不是只列出竞品名称，而是回答：
 - 现有玩家的弱点和空白在哪里
 - 这个市场是否拥挤到难以切入
 
+本 wave 只负责产出 raw research，不直接写综合结论、推荐范围或最终建议。
+
 ---
 
 ## Research Block B1: Direct Competitors

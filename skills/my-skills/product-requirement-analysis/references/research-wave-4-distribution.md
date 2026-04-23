@@ -9,6 +9,8 @@ Wave 4 的目标是回答：
 - 冷启动会卡在供给、密度、信任还是转化
 - 用户会不会在第一次接触后真正被激活
 
+本 wave 只负责产出 raw research，不直接写综合结论、推荐范围或最终建议。
+
 ---
 
 ## Research Block D1: Distribution Channels
